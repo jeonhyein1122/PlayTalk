@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    홈버튼 벡터 생성-->
+    <item android:id="@+id/item_home"
+        android:title="홈"
+        android:icon="@drawable/bottom_home"/>
+
+    <item android:id="@+id/item_ground"
+        android:title="내주변"
+        android:icon="@drawable/bottom_home"/>
+
+    <item android:id="@+id/item_intro"
+        android:title="여행지 소개"
+        android:icon="@drawable/bottom_home"/>
+
+    <item android:id="@+id/item_review"
+        android:title="리뷰"
+        android:icon="@drawable/bottom_home"/>
+
+    <item android:id="@+id/item_mypage"
+        android:title="마이페이지"
+        android:icon="@drawable/bottom_home"/>
+
+
+</menu>
